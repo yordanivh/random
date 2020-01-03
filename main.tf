@@ -4,7 +4,7 @@ terraform {
     organization = "yordanh_free"
 
     workspaces {
-      name = "random"
+      name = "random1"
     }
   }
 }
